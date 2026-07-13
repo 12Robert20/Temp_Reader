@@ -22,7 +22,7 @@ The hardware consists of two ESP32-based boards:
 
 ### Receiver
 - ESP32-WROOM-32
-- nRF24L01 wireless transceiver
+- nRF24L01 wireless receiver
 - Display interface for real-time sensor data visualization
 
 ## Current Status
