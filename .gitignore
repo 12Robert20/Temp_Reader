@@ -17,3 +17,6 @@ fp-info-cache
 *.dsn
 *.ses
 *.zip
+*.kicad_prl
+*.bak
+*.tmp
