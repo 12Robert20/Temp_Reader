@@ -621,6 +621,14 @@
     [
       "b156f72b-4620-4de4-a68f-d32c8678d570",
       "Root"
+    ],
+    [
+      "8fad871f-d0da-4694-baed-de9d9cd982bd",
+      "Transmitter Side"
+    ],
+    [
+      "67280c2d-afee-4955-8ebf-48cb04093ee6",
+      "Receiver Side"
     ]
   ],
   "text_variables": {}
